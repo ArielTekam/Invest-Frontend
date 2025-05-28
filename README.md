@@ -68,7 +68,7 @@ invest-frontend/
 │   └── index.tsx          # Точка входа
 ├── public/
 └── package.json
-
+---
 ## Преимущества архитектуры
 
 - **Модульность**
